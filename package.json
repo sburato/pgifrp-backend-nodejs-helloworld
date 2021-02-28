@@ -1,0 +1,11 @@
+{
+  "name": "webserver_basico",
+  "version": "1.0.0",
+  "description": "Um servidor web basico para aprender NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Silvano Burato",
+  "license": "ISC"
+}
